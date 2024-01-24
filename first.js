@@ -1,3 +1,10 @@
-console.log("Samip Nepal");
-console.log("Csit ");
-console.log("Semester 3");
+fullname="Samip";
+console.log(fullname);
+age=20;
+console.log(age);
+price=99.9;
+console.log(price);
+x=null;
+console.log(x);
+y=undefined;
+console.log(y);
