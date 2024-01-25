@@ -1,4 +1,4 @@
-fullname="Samip";
-fullName="Nepal";
-console.log(fullname);
-console.log(fullName);
+Console="Samip";
+console="Nepal";
+console.log(Console);
+console.log(Console);
