@@ -10,3 +10,5 @@ y=undefined;
 console.log(y);
 isnotfollow=false;
 console.log(isnotfollow);
+fullname=25;
+console.log(fullname);
