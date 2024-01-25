@@ -8,3 +8,5 @@ x=null;
 console.log(x);
 y=undefined;
 console.log(y);
+isnotfollow=false;
+console.log(isnotfollow);
