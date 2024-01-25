@@ -1,14 +1,4 @@
 fullname="Samip";
+fullName="Nepal";
 console.log(fullname);
-age=20;
-console.log(age);
-price=99.9;
-console.log(price);
-x=null;
-console.log(x);
-y=undefined;
-console.log(y);
-isnotfollow=false;
-console.log(isnotfollow);
-fullname=25;
-console.log(fullname);
+console.log(fullName);
