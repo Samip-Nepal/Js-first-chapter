@@ -1,8 +1,9 @@
-const product={
-titile:"Pen",
-rating:4,
-deal_of_the_day:true,
-price:270,
-discount:50
+const profile={
+username:"Samip Nepal",
+DOB:2002,
+isFollow:true,
+pending_message:false,
+follower:20,
+friend:500,
 };
-console.log(product);
+console.log(typeof profile.DOB);
