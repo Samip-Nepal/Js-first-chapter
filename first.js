@@ -1,9 +1,8 @@
-const student={
-fullName:"Samip",
-age:22,
-Learning:true,
+const product={
+titile:"Pen",
+rating:4,
+deal_of_the_day:true,
+price:270,
+discount:50
 };
-console.log(student.Learning);
-console.log(student["fullName"]);
-student.age=student.age+1;
-console.log(student.age);
+console.log(product);
